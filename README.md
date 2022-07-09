@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amimul Ihsan Zubair as a web designer from Bangladesh. 
+- 👋 Hi, I’m Amimul Ihsan Zubair as a php web developer from Bangladesh. 
 - 👀 I’m interested to learn new thing everyday. and do some different jobs. that's not done yet.
 - 🌱 I’m currently pass my time through learning web development. Currently I'm  learning "Laravel" a PHP Framework.
 
