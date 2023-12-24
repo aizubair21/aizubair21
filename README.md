@@ -2,14 +2,6 @@
     <img style="object-fit:covar; border-radius:50px" src="hero.png" >
 </p>
 
-<p align="center">
-    <img src="php.jpg">
-    <img src="hmtl.jpg">
-    <img src="css.jpg">
-    <img src="vue.jpg">
-    <img src="laravel.jpg">
-</p>
-
 # Hello, there 🙋‍♂️
 - 👋 I'm <b>AMIMUL IHSAN ZUBAIR</b> as a PHP/Laravel web developer from Bangladesh.
 - 👀 I'm interested to learn new thing everyday. and do some different jobs. that's not done yet.
@@ -133,6 +125,8 @@
            }
        });
      - 
+
+
 - ## Back-End Development :
     As a full stack web developer, I'm skilled and knowledegeable in server-side programming languages like PHP Node.Js Python Ruby.
     - ### Back-End Language :
@@ -218,6 +212,7 @@
             
     
             </details>
+    
     - ### Back-End Server:
         - I have skilled working with MySQL database. But, with Laravel <b>Eluquest ORM </b> Model PostgreSQL easily be handeled.
 
@@ -229,20 +224,11 @@
       - Laravel default `Authentication` system with sanctum API token.
       - Full Back-End support of Laravel.
 
-# Academic Educational :
-
-- ## BA `2023` -
-    I passed my Bachelor of Arts form `Govement University` under the Department of <b> Islamic Studies.
-- ## HSC `2018` -
-    I passed my HSC from `Madrasha Educational Board` with a great GPA - 5.00.
-- ## SSC `2016` -
-    I passed my SSC also `Madrasha Educational Board` with GPA - 5.00.
-
-# Development Education :
-<p>My Development educaiton startd by own learning HTML, CSS and basica JS from w3schools. <b> ICT Village </b> is mentionable learnign platform, there efforts make me a developer. </p>
 
 
 <!---
 aizubair21/aizubair21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
