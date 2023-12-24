@@ -134,25 +134,25 @@
       
     - ### Back-End Framework :
        </b> I skilled of using back-end frameword laravel. well known with laravel MVC pattern. experienced laravel - 
-            - Routing
-            - Middleware
-            - Controller
-            - Fachades
-            - Eluquent ORM
-            - Request Lifecycle
-            - Blade Template
-            - Artisan Console
-            - Queues
-            - Authertication
-            - Authorization
-            - Email Varificaiton
-            - Seeding
-            - Query Builder
-            - Mutator / Casts
-            - Livewire
-            - Breeze
-            - Sanctum
-            - API etc...
+        - Routing
+        - Middleware
+        - Controller
+        - Fachades
+        - Eluquent ORM
+        - Request Lifecycle
+        - Blade Template
+        - Artisan Console
+        - Queues
+        - Authertication
+        - Authorization
+        - Email Varificaiton
+        - Seeding
+        - Query Builder
+        - Mutator / Casts
+        - Livewire
+        - Breeze
+        - Sanctum
+        - API etc...
       
         <details>
           <summary>PHP Laravel Example - </summary>
@@ -212,9 +212,13 @@
         - I have skilled working with MySQL database. But, with Laravel <b>Eluquest ORM </b> Mode PostgreSQL easily be handeled. 
 
 # Academic Educational :
-- I passed my Bachelor of Arts form [Govement University](https://iu.ac.bd) under the Department of <b> Islamic Studies </b>.
-- I passed my HSC from <b> [Madrasha Educational Board](https://bmeb.gob.bd)</b> with a great GPA - 5.00.
-- I passed my SSC also <b>  [Madrasha Educational Board](https://bmeb.gob.bd)</b> with GPA - 5.00.
+
+- ## BA `2023`
+    <p>I passed my Bachelor of Arts form [Govement University](https://iu.ac.bd) under the Department of <b> Islamic Studies </b>.</p>
+- ## HSC `2018`
+    <p>I passed my HSC from <b> [Madrasha Educational Board](https://bmeb.gob.bd)</b> with a great GPA - 5.00.</p>
+- ## SSC `2016`
+    <p>I passed my SSC also <b>  [Madrasha Educational Board](https://bmeb.gob.bd)</b> with GPA - 5.00. </p>
 
 # Development Education :
 <p>My Development educaiton startd by own learning HTML, CSS and basica JS from w3schools. <b> ICT Village </b> is mentionable learnign platform, there efforts make me a developer. </p>
