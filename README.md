@@ -18,10 +18,56 @@
     - I have skilled in using frameworks and liveries like <b> Reack </b> and <b> VueJs </b>. But, Personally I use VueJs as for SPA applications to build interactive and dynamic web pages.
     - Additionally, I'm skilled to design and develop responsive web pages.
     - ### Front-End Techlogolies:
-        - HTML
-        - CSS
-        - JavaScript for interactive
-        - Less (CSS preposessor)
+        - HTML - Markup language
+            ```HTML
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Markup Language</title>
+            </head>
+            <body>
+                
+            </body>
+            </html>```
+        - CSS - Style
+          ``` CSS
+          body {
+            margin:0;
+            padding:0;
+            overflow:hidden;
+            line-height:25px;
+          }
+        - JavaScript for User Interaction
+          ``` JavaScript
+          <script>
+          var targetElement = document.querrySelector(".targetElement");
+          targetElement.forEach((elm, index)=>{
+              elm.addEventListener("input", (e)=>{
+                  console.log(e.value);
+              })
+          );
+          </script> 
+        - Less (CSS prepocessor)
+          ```less
+          body{
+              .icon{
+                  border-radius:50%;
+                  width:100px;
+                  height:100px;
+                  display:flex;
+                  justify-content:center;
+                  align-items:center;
+                  
+                    .inner{
+                          border-radius:50%;
+                          width:80px;
+                          height:80px;
+                          
+                      }
+              }
+          }
         - <b>Jquery</b> Jquery usable for DOM Manipulation. But, I cetisfied with vanila JavaScript by using Modern JavaScript like ES6 syntex.  (If i use Vue.Js Jquery not needed)
  
 - ## Back-Edn Development :
