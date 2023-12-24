@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="width:300px;height:300px;object-fit:covar; border-radius:50px" src="amimul-ihsan-zubair.jpg" >
+    <img style="object-fit:covar; border-radius:50px" src="hero.png" >
 </p>
 
 <p align="center">
@@ -10,10 +10,12 @@
     <img src="laravel.jpg">
 </p>
 
-# Hello, there <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Fwaving-hand%2F&psig=AOvVaw3wjJvLm1ZfZbjsCaldD2Sb&ust=1703478461460000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPDF296dp4MDFQAAAAAdAAAAABA3" width="25">
+# Hello, there 🙋‍♂️
 - 👋 I'm <b>AMIMUL IHSAN ZUBAIR</b> as a PHP/Laravel web developer from Bangladesh.
 - 👀 I'm interested to learn new thing everyday. and do some different jobs. that's not done yet.
 - 🌱 I'm currently pass my time through learning web development. Currently I'm  learning "Laravel" a PHP Framework. with 'Vue.js' for SPA.
+
+# Connect with me 📌
 
 # Soft Skills:
 
