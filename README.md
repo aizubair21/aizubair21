@@ -2,14 +2,22 @@
     <img style="object-fit:covar; border-radius:50px" src="hero.png" >
 </p>
 
-# Hello, there 🙋‍♂️
-- 👋 I'm <b>AMIMUL IHSAN ZUBAIR</b> as a PHP/Laravel web developer from Bangladesh.
+# Hay, What'sup 🙋‍♂️
+- 👋 I'm <b>AMIMUL IHSAN ZUBAIR</b> as a PHP/Laravel web developer from Bangladesh a learner and wordpress expert.
 - 👀 I'm interested to learn new thing everyday. and do some different jobs. that's not done yet.
 - 🌱 I'm currently pass my time through learning web development. Currently I'm  learning "Laravel" a PHP Framework. with 'Vue.js' for SPA.
 
 # Connect with me 📌
 
 # Soft Skills 💪
+
+<p>
+    <img src="" alt="Facebook">
+    &nbsp;&nbsp;
+    <img src="" alt="LinkedIn">
+    <img src="" alt="Web">
+    <img src="" alt="E-Mail">
+</p>
 
 - ## FULL-STACK WEB DEVELOPMENT :
     <p> A full stack web developer is a professional who possesses the skills and knowledge to develop both the <b></b>cliet-side</b> and     <b>server-side</b> coponents of a web applicaiton. They are proficient in various technologies and programming languages required for     front-end and back-end development</p>
