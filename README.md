@@ -17,7 +17,7 @@
 
 # Connect with me 📌
 
-# Soft Skills:
+# Soft Skills 💪
 
 - ## FULL-STACK WEB DEVELOPMENT :
     <p> A full stack web developer is a professional who possesses the skills and knowledge to develop both the <b></b>cliet-side</b> and     <b>server-side</b> coponents of a web applicaiton. They are proficient in various technologies and programming languages required for     front-end and back-end development</p>
