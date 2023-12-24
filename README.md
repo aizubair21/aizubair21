@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Amimul Ihsan Zubair as a php web developer from Bangladesh. 
+<p>
+    <img src="amimul-ihsan-zubair.jpg" >
+</p>
+#Personal Information:
+- 👋 Hi, I’m Amimul Ihsan Zubair as a PHP/Laravel web developer from Bangladesh.
 - 👀 I’m interested to learn new thing everyday. and do some different jobs. that's not done yet.
-- 🌱 I’m currently pass my time through learning web development. Currently I'm  learning "Laravel" a PHP Framework.
+- 🌱 I’m currently pass my time through learning web development. Currently I'm  learning "Laravel" a PHP Framework. with 'Vue.js' for SPA.
 
 
 <!---
