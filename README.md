@@ -69,11 +69,52 @@
               }
           }
         - <b>Jquery</b> Jquery usable for DOM Manipulation. But, I cetisfied with vanila JavaScript by using Modern JavaScript like ES6 syntex.  (If i use Vue.Js Jquery not needed)
+          ```JavaScript
+          //have an array DOM, like this
+          var dom_element = document.getElementsByClassName("dom_element");
+
+          /**
+          * we aware to assign an 'click' event listener each dom element when clicked.
+          * with Jquery, done as like this
+          */
+          $(".dom_element").on("click", funciton(e){
+            console.log(e);
+          })
+
+          /**
+          * But, with vanila js. we have to loop through every dom_element array. then add 'click' listener one by one.
+          * bellow example with ES6 syntex
+          */
+          do_element.forEach((d_elm, index)=>{
+              d_elm.addEventListener("click", function(e){
+                console.log(e);
+              })
+          })
+
+          /**
+          * if we aware to do with vanila JavaScript.
+          * We have to loop throuth do_element with forloop. sometimes a DOM array make with 'getElementsByClassName' not working. then use this technique
+          */
+
+          for(var i = 0, i < dom_element.length-1, i++){
+          /**
+            * when i is o. we get first array element by dom_element[i]. it continued till the last element of array. we get one by one array element
+          */
+            dom_element[i].addEventListener('click', function(e){
+                    console.log(e);
+              });
+          }
+          
  
 - ## Back-Edn Development :
     As a full stack web developer, I'm skilled and knowledegeable in server-side programming languages like PHP Node.Js Python Ruby.
     - ### Back-End Language :
         </b> I personally use <b>PHP</b> as my personal Back-End language for hangle data storage and retrieval.
+      ```php
+      <?php
+      $name = "PHP";
+        echo ("PHP is a server-side language! ");
+      
     - ### Back-End Framework :
         </b> I skilled of using back-end frameword laravel. well known with laravel MVC pattern. experienced laravel - 
         - Routing
