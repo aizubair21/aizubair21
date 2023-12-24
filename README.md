@@ -2,6 +2,10 @@
     <img style="width:300px;height:300px;object-fit:covar; border-radius:50px" src="amimul-ihsan-zubair.jpg" >
 </p>
 
+<p align="center">
+    <img src="php.png">
+</p>
+
 # Personal Information:
 - 👋 Hi, This is <b>AMIMUL IHSAN ZUBAIR</b> as a PHP/Laravel web developer from Bangladesh.
 - 👀 I’m interested to learn new thing everyday. and do some different jobs. that's not done yet.
