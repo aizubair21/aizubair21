@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="object-fit:covar; border-radius:50px" src="hero.png" >
+    <img style="object-fit:covar; border-radius:50px" src="asset/hero.png" >
 </p>
 
 # Hay, What'sup 🙋‍♂️
@@ -7,27 +7,27 @@
 - 👀 I'm interested to learn new thing everyday. and do some different jobs. that's not done yet.
 - 🌱 I'm currently pass my time through learning web development. Currently I'm  learning "Laravel" a PHP Framework. with 'Vue.js' for SPA.
 
-# Connect with me 📌
-
-# Soft Skills 💪
+# CONNECT WITH ME 📌
 
 <p>
-    <img src="" alt="Facebook">
-    &nbsp;&nbsp;
-    <img src="" alt="LinkedIn">
-    <img src="" alt="Web">
-    <img src="" alt="E-Mail">
+    <a href=""><img src="asset/facebook.jpg" alt="Facebook"></a>
+    <a href=""><img src="asset/linkedin.jpg" alt="LinkedIn"></a>
+    <a href=""><img src="asset/website.jpg" alt="Web"></a>
+    <a href=""> <img src="asset/email.jpg" alt="E-Mail"></a>
 </p>
 
-- ## FULL-STACK WEB DEVELOPMENT :
+
+# SOFT SKILLS 💪
+
+- ## Full-Stack Web Development 
     <p> A full stack web developer is a professional who possesses the skills and knowledge to develop both the <b></b>cliet-side</b> and     <b>server-side</b> coponents of a web applicaiton. They are proficient in various technologies and programming languages required for     front-end and back-end development</p>
 
-- ## Front-End Development :
+- ## Front-End Development 
     - Aa a full stack web developer I have well-versed in front-end technologies such as HTML, CSS and JavaScript.
     - I have expertise in creating and designing use interfaces, ensuring a semless user experience.
     - I have skilled in using frameworks and liveries like <b> Reack </b> and <b> VueJs </b>. But, Personally I use VueJs as for SPA applications to build interactive and dynamic web pages.
     - Additionally, I'm skilled to design and develop responsive web pages.
-    - ### Front-End Techlogolies:
+    - ### Front-End Techlogolies
         - HTML - Markup language
             ```HTML
             <!DOCTYPE html>
@@ -135,16 +135,16 @@
      - 
 
 
-- ## Back-End Development :
+- ## Back-End Development 
     As a full stack web developer, I'm skilled and knowledegeable in server-side programming languages like PHP Node.Js Python Ruby.
-    - ### Back-End Language :
+    - ### Back-End Language 
         </b> I personally use <b>PHP</b> as my personal Back-End language for hangle data storage and retrieval.
       ```php
       <?php
       $name = "PHP";
         echo ("PHP is a server-side language! ");
       
-    - ### Back-End Framework :
+    - ### Back-End Framework 
        </b> I skilled of using back-end frameword laravel. well known with laravel MVC pattern. experienced laravel - 
         - Routing
         - Middleware
@@ -221,7 +221,7 @@
     
             </details>
     
-    - ### Back-End Server:
+    - ### Back-End Server
         - I have skilled working with MySQL database. But, with Laravel <b>Eluquest ORM </b> Model PostgreSQL easily be handeled.
 
     - ### SPA Application
