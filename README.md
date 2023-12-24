@@ -52,16 +52,18 @@
     <tbody>
         <tr>
             <td > Weather API </td>
-            <id>  </id>
-            <td> `HTML`,`CSS`,`JAVASCRIPT`,`OPENWEATHERAPI` </td>
+            <td>  </td>
+            <td> HTML,CSS,JAVASCRIPT,OPENWEATHERAPI </td>
         </tr>
         <tr>
             <td > Student Manage with Online Exam System </td>
-            <id> A full featured student management system application with laravel also have an online exam system (MCQ and Writter). full featured MCQ exam application 
+            <td> A full featured student management system application with laravel also have an online exam system (MCQ and Writter). full featured MCQ exam application 
                 - Student can select only one option. as soon as select a option other option disabled immediately.
-                - Exam start an seperate popup tab. If mouse over out the tab application ditect mouse movement and show an alert to return within one minute. 
-            </id>
-            <td> `HTML`,`CSS`,`JAVASCRIPT`, `LARAVEL` </td>
+                - Exam start an seperate popup tab. If mouse over out the tab application ditect mouse movement and show an alert to return within one minute. after one minute coundown over, exam immediately submited.
+                - Anotehr mentioned feature is question comes with random order. means, if two student sit beside and take exam;  question must be different to each. 
+                - Our system has three types of login : Teacher, Student and Parent. 
+            </td>
+            <td> HTML,CSS,JAVASCRIPT, LARAVEL </td>
         </tr>
     </tbody>
 </table>
