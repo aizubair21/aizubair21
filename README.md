@@ -286,12 +286,13 @@
         - I have skilled working with MySQL database. But, with Laravel <b>Eluquest ORM </b> Model PostgreSQL easily be handeled.
 
     - ### SPA Application
-      I managed SPA Application using vue with laravel under the InertiaJs echosystem. Inertia gives us use Laravel Back manage and Front end with Vue components. Have some fachilities to use all of laravel features, inclulding
+      I managed SPA Application using vue with laravel under the InertiaJs echosystem. Inertia gives us use Laravel Back-end manage and Front end with Vue components. Have some fachilities to use all of laravel features, inclulding
       - Laravel `Routing` system instead of vue routing. All routing and SPA techinique manageged by `InertiaJs`.
       - Laravel `Controller`.
       - Laravel `Middlewere`.
       - Laravel default `Authentication` system with sanctum API token.
       - Full Back-End support of Laravel.
+
 
 
 
