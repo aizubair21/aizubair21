@@ -7,14 +7,6 @@
 - 👀 I'm interested to learn new thing everyday. and do some different jobs. that's not done yet.
 - 🌱 I'm currently pass my time through learning web development. Currently I'm  learning "Laravel" a PHP Framework. with 'Vue.js' for SPA.
 
-# CONNECT WITH ME 📌
-<p>
-    <a href=""><img src="asset/facebook.jpg" alt="Facebook"></a>
-    <a href=""><img src="asset/linkedin.jpg" alt="LinkedIn"></a>
-    <a href=""><img src="asset/website.jpg" alt="Web"></a>
-    <a href=""> <img src="asset/email.jpg" alt="E-Mail"></a>
-</p>
-
 # LIVE PROJECTS 
 <table>
     <thead>
@@ -101,10 +93,6 @@
     As a full stack web developer, I'm skilled and knowledegeable in server-side programming languages like PHP Node.Js Python Ruby.
     - ### Back-End Language 
         </b> I personally use <b>PHP</b> as my personal Back-End language for hangle data storage and retrieval.
-      ```php
-      <?php
-      $name = "PHP";
-        echo ("PHP is a server-side language! ");
       
     - ### Back-End Framework 
        </b> I skilled of using back-end frameword laravel. well known with laravel MVC pattern. experienced laravel        
